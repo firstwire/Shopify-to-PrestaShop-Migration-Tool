@@ -2,7 +2,7 @@ We have created a free tool to convert Shopify data into PrestaShop-compatible C
 
 You can use this tool to convert your product, customer, and address data into CSV files that match PrestaShop's own official **Import module templates** — the same semicolon-delimited layouts you'd use under Back Office → All Shops → Import in PrestaShop — plus a brand-new categories file, since Shopify has no separate category export of its own. Order data is still converted too, but into a different, older format — see Step 5 below for why.
 
-Please see the detailed instructions at : **https://firstwireapp.com/blog/shopify-to-prestashop-migration-free-tool/**
+Please see the detailed instructions at : 
 
 See the code and guide below.
 
